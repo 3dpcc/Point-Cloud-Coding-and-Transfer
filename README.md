@@ -153,8 +153,8 @@
 | Scale-adaptive asymmetric sparse variational autoencoder for point cloud compression | 几何有损 | 体素 | TBC | 2024 | [Paper](https://ieeexplore.ieee.org/document/10666159) | [Code](https://github.com/fancj2017/SAS-VAE) |
 | Sparse representation based deep residual geometry compression network for large-scale point clouds | 几何有损 | 体素 | ICME | 2023 | [Paper](https://ieeexplore.ieee.org/document/10220062) | [Code](https://github.com/pengpeng-yu/FastPCC) |
 | Hierarchical distortion learning for fast lossy compression of point clouds | 几何有损 | 体素 | TMM | 2025 | [Paper](https://ieeexplore.ieee.org/document/10980362) | [Code](https://github.com/pengpeng-yu/FastPCC) |
-| Sparse tensor-based multiscale representation for point cloud geometry compression | 几何有损 | 体素 | TPAMI | 2022 | [Paper](https://ieeexplore.ieee.org/document/9968173/) | [Code](https://github.com/NJUVISION/SparsePCGC) |
-| UniPCGC: Towards practical point cloud geometry compression via an efficient unified approach | 几何有损 | 体素 | AAAI | 2025 | [Paper](https://dl.acm.org/doi/10.1609/aaai.v39i12.33387) | [Code](https://github.com/Wangkkklll/UniPCGC) |
+| Sparse tensor-based multiscale representation for point cloud geometry compression | 几何无损 | 体素 | TPAMI | 2022 | [Paper](https://ieeexplore.ieee.org/document/9968173/) | [Code](https://github.com/NJUVISION/SparsePCGC) |
+| UniPCGC: Towards practical point cloud geometry compression via an efficient unified approach | 几何无损 | 体素 | AAAI | 2025 | [Paper](https://dl.acm.org/doi/10.1609/aaai.v39i12.33387) | [Code](https://github.com/Wangkkklll/UniPCGC) |
 | D-DPCC: Deep dynamic point cloud compression via 3D motion prediction | 几何有损 | 体素 | IJCAI | 2022 | [Paper](https://www.ijcai.org/proceedings/2022/0126.pdf) | [Code](https://github.com/ttlzfhy/D-DPCC) |
 | Learning dynamic point cloud compression via hierarchical inter-frame block matching | 几何有损 | 体素 | ACMMM | 2023 | [Paper](https://dl.acm.org/doi/10.1145/3581783.3613793) | [Code](https://github.com/ttlzfhy/LDPCC) |
 | Dynamic point cloud compression with spatio-temporal transformer-style modeling | 几何有损 | 体素 | DCC | 2024 | [Paper](https://ieeexplore.ieee.org/document/10533735) | N/A |
@@ -163,8 +163,11 @@
 | Feature-aligned motion transformation for efficient dynamic point cloud compression | 几何有损 | 体素 | ArXiv | 2025 | [Paper](https://arxiv.org/abs/2509.14591) | N/A |
 | ScanPCGC: Learning-based lossless point cloud geometry compression using sequential slice representation | 几何有损 | 体素 | ICASSP | 2024 | [Paper](https://ieeexplore.ieee.org/document/10447944) | N/A |
 | ViewPCGC: View-guided learned point cloud geometry compression | 几何有损 | 体素 | ACM MM | 2024 | [Paper](https://dl.acm.org/doi/10.1145/3664647.3681225) | N/A |
-| RENO: Real-time neural compression for 3D LiDAR point clouds | 几何有损 | 体素 | CVPR | 2025 | [Paper]((https://openaccess.thecvf.com/content/CVPR2025/html/You_RENO_Real-Time_Neural_Compression_for_3D_LiDAR_Point_Clouds_CVPR_2025_paper.html)) | [Code](https://github.com/NJUVISION/RENO) |
+| RENO: Real-time neural compression for 3D LiDAR point clouds | 几何无损 | 体素 | CVPR | 2025 | [Paper]((https://openaccess.thecvf.com/content/CVPR2025/html/You_RENO_Real-Time_Neural_Compression_for_3D_LiDAR_Point_Clouds_CVPR_2025_paper.html)) | [Code](https://github.com/NJUVISION/RENO) |
 | suLPCC: A novel LiDAR point cloud compression framework for scene understanding tasks | 几何有损 | 体素 | TII | 2025 | [Paper](https://ieeexplore.ieee.org/document/10884627) | N/A |
+| DeepPCC: Learned lossy point cloud compression | 几何有损 | 体素 | TETCI | 2024 | [Paper](https://ieeexplore.ieee.org/document/10714474) | Code[https://github.com/3dpcc/DeepPCC] |
+| YOGA: Yet another geometry-based point cloud compressor | 几何有损 | 体素 | ACM MM | 2023 | [Paper](https://dl.acm.org/doi/10.1145/3581783.3613847) | [Code](https://github.com/3dpcc/YOGAv1) |
+| A versatile point cloud compressor using universal multiscale conditional coding – Part I: Geometry | 几何有损及无损 | 体素 | TPAMI | 2025 | [Paper](https://ieeexplore.ieee.org/document/10682571) | [Code](https://github.com/NJUVISION/Unicorn) |
 | A novel point cloud compression algorithm based on clustering | 几何有损 | 二维投影 | RAL | 2019 | [Paper](https://ieeexplore.ieee.org/document/8648155) | N/A |
 | A novel coding architecture for LiDAR point cloud sequence | 几何有损 | 二维投影 | RAL | 2020 | [Paper](https://ieeexplore.ieee.org/document/9143432) | N/A |
 | Real-time LiDAR point cloud compression using bi-directional prediction and range-adaptive floating-point coding | 几何有损 | 二维投影 | TBC | 2022 | [Paper](https://ieeexplore.ieee.org/document/9745995) | N/A |
@@ -212,6 +215,8 @@
 | Deep-PCAC: An end-to-end deep lossy compression framework for point cloud attributes | 属性有损 | 学习方法 | TMM | 2021 | [Paper](https://ieeexplore.ieee.org/document/9447226) | [Code](https://github.com/xhsheng-ustc/Deep-PCAC) |
 | Sparse tensor-based point cloud attribute compression | 属性有损 | 学习方法 | MIPR | 2022 | [Paper](https://ieeexplore.ieee.org/document/9874468) | N/A |
 | TSC-PCAC: Voxel transformer and sparse convolution-based point cloud attribute compression for 3D broadcasting | 属性有损 | 学习方法 | TBC | 2024 | [Paper](https://ieeexplore.ieee.org/document/10693649) | [Code](https://github.com/igizuxo/TSC-PCAC) |
+| DeepPCC: Learned lossy point cloud compression | 属性有损 | 学习方法 | TETCI | 2024 | [Paper](https://ieeexplore.ieee.org/document/10714474) | Code[https://github.com/3dpcc/DeepPCC] |
+| YOGA: Yet another geometry-based point cloud compressor | 属性有损 | 学习方法 | ACM MM | 2023 | [Paper](https://dl.acm.org/doi/10.1145/3581783.3613847) | [Code](https://github.com/3dpcc/YOGAv1) |
 | Efficient point cloud attribute compression using rich parallelizable context model | 属性有损 | 学习方法 | ICASSP | 2024 | [Paper](https://ieeexplore.ieee.org/document/10448389) | N/A |
 | PCAC-GAN: A sparse-tensor-based generative adversarial network for 3D point cloud attribute compression | 属性有损 | 学习方法 | CVM | 2024 | [Paper](https://ieeexplore.ieee.org/document/11174068) | N/A |
 | SPAC: Sampling-based progressive attribute compression for dense point clouds | 属性有损 | 学习方法 | TIP | 2025 | [Paper](https://ieeexplore.ieee.org/document/11002415) | N/A |
@@ -227,6 +232,7 @@
 | LOD-PCAC: Level-of-detail-based deep lossless point cloud attribute compression | 属性无损 | 学习方法 | TIP | 2025 | [Paper](https://ieeexplore.ieee.org/document/11039156) | N/A |
 | Lossless LiDAR point cloud reflectance compression with a deep hierarchical KNN context model | 属性无损 | 学习方法 | TMM | 2025 | [Paper](https://ieeexplore.ieee.org/document/10891456) | N/A |
 | Efficient LiDAR reflectance compression via scanning serialization | 属性无损 | 学习方法 | ICML | 2025 | [Paper](https://arxiv.org/abs/2505.09433) | N/A |
+| A versatile point cloud compressor using universal multiscale conditional coding – Part II: Geometry | 属性有损及无损 | 学习方法 | TPAMI | 2025 | [Paper](https://ieeexplore.ieee.org/document/10682566) | [Code](https://github.com/NJUVISION/Unicorn) |
 
 ### 8. 国内采样增强研究归纳
 
