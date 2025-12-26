@@ -134,7 +134,7 @@
 | 论文标题 | 任务类型 | 基础框架 | 发表期刊或会议 | 年份 | 论文 | 代码 |
 | :------- | :--------: | :--------: | :------------: | :--: | :------: | :------: |
 | Deep autoencoder-based lossy geometry compression for point clouds | 几何有损 | 点 | ArXiv | 2019 | [Paper](https://arxiv.org/abs/1905.03691) | [Code](https://github.com/YanWei123/Deep-AutoEncoder-based-Lossy-Geometry-Compression-for-Point-Clouds) |
-| 3D point cloud geometry compression on deep learning | 几何有损 | 点 | ACMMM | 2019 | [Paper](https://dl.acm.org/doi/10.1145/3343031.3351061) | N/A |
+| 3D point cloud geometry compression on deep learning | 几何有损 | 点 | ACM MM | 2019 | [Paper](https://dl.acm.org/doi/10.1145/3343031.3351061) | N/A |
 | Multi-scale end-to-end learning for point cloud geometry compression | 几何有损 | 点 | ICIP | 2022 | [Paper](https://ieeexplore.ieee.org/document/9898058) | N/A |
 | Point cloud geometry compression via neural graph sampling | 几何有损 | 点 | ICIP | 2021 | [Paper](https://ieeexplore.ieee.org/document/9506631) | N/A |
 | TransPCC: Towards deep point cloud compression via transformers | 几何有损 | 点 | ICMR | 2022 | [Paper](https://dl.acm.org/doi/10.1145/3512527.3531423) | [Code](https://github.com/jokieleung/TransPCC) |
@@ -156,7 +156,7 @@
 | Sparse tensor-based multiscale representation for point cloud geometry compression | 几何无损 | 体素 | TPAMI | 2022 | [Paper](https://ieeexplore.ieee.org/document/9968173/) | [Code](https://github.com/NJUVISION/SparsePCGC) |
 | UniPCGC: Towards practical point cloud geometry compression via an efficient unified approach | 几何无损 | 体素 | AAAI | 2025 | [Paper](https://dl.acm.org/doi/10.1609/aaai.v39i12.33387) | [Code](https://github.com/Wangkkklll/UniPCGC) |
 | D-DPCC: Deep dynamic point cloud compression via 3D motion prediction | 几何有损 | 体素 | IJCAI | 2022 | [Paper](https://www.ijcai.org/proceedings/2022/0126.pdf) | [Code](https://github.com/ttlzfhy/D-DPCC) |
-| Learning dynamic point cloud compression via hierarchical inter-frame block matching | 几何有损 | 体素 | ACMMM | 2023 | [Paper](https://dl.acm.org/doi/10.1145/3581783.3613793) | [Code](https://github.com/ttlzfhy/LDPCC) |
+| Learning dynamic point cloud compression via hierarchical inter-frame block matching | 几何有损 | 体素 | ACM MM | 2023 | [Paper](https://dl.acm.org/doi/10.1145/3581783.3613793) | [Code](https://github.com/ttlzfhy/LDPCC) |
 | Dynamic point cloud compression with spatio-temporal transformer-style modeling | 几何有损 | 体素 | DCC | 2024 | [Paper](https://ieeexplore.ieee.org/document/10533735) | N/A |
 | patchDPCC: A patchwise deep compression framework for dynamic point clouds | 几何有损 | 体素 | AAAI | 2024 | [Paper](https://dl.acm.org/doi/10.1609/aaai.v38i5.28238) | [Code](https://github.com/pzrsdu/patchDPCC) |
 | AdaDPCC: Adaptive rate control and rate-distortion-complexity optimization for dynamic point cloud compression | 几何有损 | 体素 | AAAI | 2025 | [Paper](https://dl.acm.org/doi/10.1609/aaai.v39i12.33439) | N/A |
