@@ -10,10 +10,10 @@
 | Point cloud geometry compression with channel attentions for low density point cloud | 几何有损 | 自编码器 | ICCCI | 2025 | [Paper](https://ieeexplore.ieee.org/abstract/document/11158644) | N/A |
 | Deep learning-based point cloud geometry coding: RD control through implicit and explicit quantization | 几何有损 | 自编码器 | ICMEW | 2020 | [Paper](https://ieeexplore.ieee.org/document/9106022) | N/A |
 | Scalable graph-guided transformer for point cloud geometry coding | 几何有损 | 自编码器 | TMM | 2025 | [Paper](https://ieeexplore.ieee.org/document/11123804) | N/A |
-| Temporal conditional coding for dynamic point cloud geometry compression | 几何有损 | 自编码器 | ICMEW | 2024 | [Paper](https://ieeexplore.ieee.org/document/10447562) | N/A |
+| Temporal conditional coding for dynamic point cloud geometry compression | 几何有损 | 自编码器 | ICASSP | 2024 | [Paper](https://ieeexplore.ieee.org/document/10447562) | N/A |
 | Inter-frame compression for dynamic point cloud geometry coding | 几何有损 | 自编码器 | TIP | 2024 | [Paper](https://ieeexplore.ieee.org/document/10380494) | [Code](https://github.com/aniqueakhtar/PointCloudCompression) |
 | Real-time streaming point cloud compression for 3D LiDAR sensor using U-Net | 几何有损 | 二维投影 | Access | 2019 | [Paper](https://ieeexplore.ieee.org/document/8798629/) | [Code](https://github.com/hashi0203/unet-lidar-compression) |
-| Compressing continuous point cloud data using image compression methods | 几何有损 | 二维投影 | ICITS | 2016 | [Paper](https://ieeexplore.ieee.org/document/7795789) | N/A |
+| Compressing continuous point cloud data using image compression methods | 几何有损 | 二维投影 | ITSC | 2016 | [Paper](https://ieeexplore.ieee.org/document/7795789) | N/A |
 | Point cloud compression for 3D LiDAR sensor using recurrent neural network with residual blocks | 几何有损 | 二维投影 | ICRA | 2019 | [Paper](https://ieeexplore.ieee.org/document/8794264) | [Code](https://github.com/ChenxiTU/Point-cloud-compression-by-RNN) |
 | RIDDLE: LiDAR data compression with range image deep delta encoding | 几何有损 | 二维投影 | CVPR | 2022 | [Paper](https://ieeexplore.ieee.org/abstract/document/9878865/) | N/A |
 | A volumetric approach to point cloud compression–Part II: geometry compression | 几何有损 | 其余架构 | TIP | 2020 | [Paper](https://ieeexplore.ieee.org/document/8931233/) | N/A |
