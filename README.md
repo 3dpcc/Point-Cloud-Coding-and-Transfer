@@ -41,7 +41,7 @@
 | Fractional motion estimation for point cloud compression | 属性有损 | 传统方法 | DCC | 2022 | [Paper](https://ieeexplore.ieee.org/document/9810656) | N/A |
 | Editing compressed high-resolution voxel scenes with attributes | 属性有损及无损 | 传统方法 | Comput. Graph. Forum | 2023 | [Paper](https://onlinelibrary.wiley.com/doi/full/10.1111/cgf.14757) | N/A |
 | Point cloud compression incorporating region of interest coding | 属性有损 | 传统方法 | ICIP | 2019 | [Paper](https://ieeexplore.ieee.org/document/8803553) | N/A |
-| Learned volumetric attribute compression for point clouds using coordinate-based networks | 属性有损 | 学习方法 | Front. Signal Process. | 2022 | [Paper](https://arxiv.org/abs/2111.08988) | N/A |
+| Learned volumetric attribute compression for point clouds using coordinate-based networks | 属性有损 | 学习方法 | Front. Signal Process. | 2022 | [Paper](https://www.frontiersin.org/journals/signal-processing/articles/10.3389/frsip.2022.1008812/full) | N/A |
 | Volumetric attribute compression for 3D point clouds using feedforward network with geometric attention | 属性有损 | 学习方法 | ICASSP | 2023 | [Paper](https://ieeexplore.ieee.org/document/10096559) | N/A |
 | Volumetric 3D point cloud attribute compression: learned polynomial bilateral filter for prediction | 属性有损 | 学习方法 | ICASSP | 2024 | [Paper](https://ieeexplore.ieee.org/document/10445884) | N/A |
 | Integer alternative for the region-adaptive hierarchical transform | 属性有损 | 学习方法 | SPL | 2019 | [Paper](https://ieeexplore.ieee.org/document/8777188) | N/A |
